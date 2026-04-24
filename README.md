@@ -1,6 +1,21 @@
 # mmo-project
 java server, phaser.js client
 
+# How to run
+
+## Client
+
+Requires NodeJs and Phaser.
+(`npm install phaser`)
+
+```sh
+cd client
+
+npm run dev
+```
+
+
+
 # Credit
 
 ## Tileset
