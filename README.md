@@ -3,6 +3,17 @@ java server, phaser.js client
 
 # How to run
 
+## Server
+
+Windows powershell run: (requires jdk23)
+
+```sh
+
+mvn compile exec:java -D"exec.mainClass=mmo.Main"
+
+```
+
+
 ## Client
 
 Requires NodeJs and Phaser.
